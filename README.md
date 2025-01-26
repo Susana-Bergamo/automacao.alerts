@@ -40,4 +40,4 @@ No geral, seu projeto demonstra uma compreensão sólida de PO e POO aplicados a
 O projeto foi cuidadosamente desenvolvido com foco na robustez, versatilidade e eficiência. 
 O tratamento de exceções implementado em cada método fornece informações detalhadas em caso de erros, facilitando a depuração e a resolução de problemas, tornando o projeto ainda mais robusto e confiável.
 Em suma, o projeto foi concebido para atender aos mais altos padrões de qualidade, oferecendo uma solução robusta, versátil e eficiente para automatização de testes.
-Desafio proposto pela [E2E Coders](https://ead.e2etreinamentos.com.br/).
+
